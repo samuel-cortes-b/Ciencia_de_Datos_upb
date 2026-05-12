@@ -1,0 +1,12 @@
+ID Producto;Componente;Marca;Proveedor;Precio
+INT-i7-12700K;Procesador;Intel;PCComponentes;350,50USD
+AMD-R9-7950X;Procesador;AMD;Newegg;550USD
+NV-RTX-4070;Tarjeta Grafica;Nvidia;Amazon;600,99USD
+COR-VEN32GB;Memoria RAM;Corsair;Tiendatech;120USD
+SS-EVO980;Disco Solido SSD;Samsung;MercadoLibre;95,5USD
+NV-RTX-4070-GIGA;Tarjeta Grafica;Nvidia;PCComponentes;595,75USD
+INT-i7-13700K;Procesador;Intel;Amazon;380USD
+COR-VEN32GB-LP;Memoria RAM;Corsair;Amazon;115,5USD
+SS-EVO970;Disco Solido SSD;Samsung;PCComponentes;105USD
+KING-FUR32GB;Memoria RAM;Kingston;Newegg;99,99USD
+NV-RTX-4070-ASUS;Tarjeta Grafica;Nvidia;Tiendatech;610,25USD

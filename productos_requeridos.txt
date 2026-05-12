@@ -1,0 +1,5 @@
+Componente;Marca
+Procesador;Intel
+Tarjeta Grafica;Nvidia
+Memoria RAM;Corsair
+Disco Solido SSD;Samsung
